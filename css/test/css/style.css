@@ -1,0 +1,14 @@
+div
+{
+	border:15px solid black;
+	width:300px;
+	background-color:rgba(0,0,0,0.4);
+	margin:20px;
+	padding:50px;
+	
+}
+*{
+	box-sizing:border-box;
+	
+	
+}

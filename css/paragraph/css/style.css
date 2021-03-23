@@ -1,0 +1,22 @@
+@font-face
+{
+	font-family: 'myFont';
+	src: url('../fonts/HachiMaruPop-Regular.ttf');
+  }
+
+
+.a{
+	
+	font-family:'myFont';
+	
+	
+	
+}
+.b
+{
+	font-family:Cursive;
+}
+.c
+{
+	font-family:Monospace;
+}

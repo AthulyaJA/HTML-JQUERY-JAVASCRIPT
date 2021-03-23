@@ -1,0 +1,12 @@
+body
+{
+	background-image:url("../img/1.jpg");
+    background-repeat: no-repeat;
+   color:#00ff00;
+   background-attachment:scroll;
+  
+  }
+ p{
+	 font-size:20px;
+ }
+

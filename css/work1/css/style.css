@@ -1,0 +1,21 @@
+a{
+	text-decoration:none;
+	color:yellow;
+	font-size:30px;
+	padding:40px;
+	
+}
+nav{
+	background-color:black;
+	text-align:center;
+	padding:40px;
+}
+.a{
+	border:8px solid red;
+	text-align:justify;
+	width:50;
+	padding:20px;
+	margin-left:200px;
+	margin-top:20px;
+	margin-right:200px;
+}

@@ -1,0 +1,19 @@
+table,td,th{
+            
+border:1px groove red;
+border-collapse:collapse;
+padding :30px;
+background-color:#ff00ff;
+
+}
+
+.a{
+	color:red;
+}
+
+th
+{
+border-radius:20px;
+}
+body{
+	background
